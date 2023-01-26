@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.anim{
+    height: 160px;
+    background-color: red;
+}
+.anim>h2{
+    color: green;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
